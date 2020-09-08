@@ -57,7 +57,7 @@ namespace Supermarket
                 {
                     Console.WriteLine(statisticList[i].day + " " + statisticList[i].name);
                     pieses++;
-                    sum += statisticList[i].price;
+                    sum += statisticList[i].price;  
                 }
             }
 
